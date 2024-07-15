@@ -1,2 +1,2 @@
-# cs30-major-project
-CS-30 Major Project 
+# slitherIO RIP-OFF
+This is a slitherIO game I made using JavaScript, I have used p5play to make this! 
