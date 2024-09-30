@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Page! Here you'll find details about my coding projects, including a brief description, technologies used, and links to the repositories.
 
-## Blackjack (Python): [Python-blackjack](Python-blackjack)
+## Project 1: [Python-blackjack](Python-blackjack)
 
 - **Description**: This was one of my first ever big python scripts. This is a blackjack game wherein you play against the dealer (the computer) and get to choose whether you want to hit or stand to get 21! 
 
