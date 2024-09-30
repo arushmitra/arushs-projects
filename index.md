@@ -1,6 +1,6 @@
 # My Coding Projects
 
-Welcome to my GitHub Page! Here you'll find details about two of coding projects, including a brief description, technologies used, and links to the repositories.
+Welcome to my GitHub Page! Here you'll find details about my coding projects, including a brief description, technologies used, and links to the repositories.
 
 ## Blackjack (Python): [Python-blackjack](Python-blackjack)
 
