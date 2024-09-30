@@ -25,4 +25,4 @@ Welcome to my GitHub Page! Here you'll find details about my coding projects, in
 
 ---
 
-Thank you for visiting my GitHub Pages site! Feel free to explore the projects and reach out if you have any questions or feedback.
+Thank you for visiting my GitHub Page!
